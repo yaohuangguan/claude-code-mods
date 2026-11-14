@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-mods",
+  "description": "Sam Yao 的 Claude Code mod 合集：主题、面板等",
+  "owner": {
+    "name": "Sam Yao"
+  },
+  "plugins": [
+    {
+      "name": "aurora-night",
+      "source": "./plugins/aurora-night",
+      "description": "极光夜：深靛蓝界面，背后是缓缓流动的极光、闪烁的星空和一弯新月"
+    }
+  ]
+}
